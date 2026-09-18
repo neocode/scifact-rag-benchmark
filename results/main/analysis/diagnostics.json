@@ -1,0 +1,32 @@
+{
+  "CRAG": {
+    "branch_frequency": {
+      "ambiguous": 194,
+      "correct": 153,
+      "incorrect": 13
+    },
+    "evaluator_parse_failures": 0,
+    "eval_max_mean": 0.9227777777777779
+  },
+  "Agentic": {
+    "iterations_distribution": {
+      "1": 186,
+      "3": 159,
+      "2": 15
+    },
+    "iterations_mean": 1.925,
+    "searches_mean": 1.1666666666666667,
+    "finished_by": {
+      "agent_finish": 273,
+      "iteration_limit": 87
+    }
+  },
+  "GraphRAG": {
+    "fallback_rate": 0.0,
+    "candidates_mean": 124.1
+  },
+  "LightRAG": {
+    "fallback_rate": 0.0,
+    "candidates_mean": 196.51111111111112
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "split": "train",
+  "seed": 42,
+  "n_claims": 120,
+  "n_evidence_docs": 125,
+  "n_hard_negatives": 375,
+  "n_docs": 500,
+  "label_distribution": {
+    "SUPPORTS": 81,
+    "REFUTES": 39
+  },
+  "claims_with_multiple_evidence_docs": 8,
+  "gold_sentences_per_claim_mean": 2.092,
+  "overlap_with_dev_split": {
+    "shared_claim_ids": [],
+    "n_shared": 0
+  },
+  "note": "All hyper-parameters were fixed a priori; no parameter was tuned on the benchmark claims.",
+  "n_chunks": 4440
+}

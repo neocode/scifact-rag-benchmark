@@ -1,0 +1,20 @@
+# Core
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+matplotlib>=3.8
+tabulate>=0.9
+requests>=2.31
+networkx>=3.2
+rank-bm25>=0.2.2
+
+# Embeddings / reranking (downloads intfloat/e5-base-v2 and BAAI/bge-reranker-base from the Hugging Face Hub)
+sentence-transformers>=3.0
+torch>=2.1
+
+# Generation (Google Gemini via the google-genai SDK)
+google-genai>=1.0
+
+# Optional: Leiden community detection (falls back to networkx Louvain when absent)
+python-igraph>=0.11
+leidenalg>=0.10

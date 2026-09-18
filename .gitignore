@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+cache/
+data/
+results_smoke/
+
+# local working files, not part of the review package
+*.zip
+*.tar.gz
+ЯК_ЗАПУСТИТИ.md

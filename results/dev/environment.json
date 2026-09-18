@@ -1,0 +1,20 @@
+{
+  "python": "3.12.3",
+  "platform": "Linux-7.0.0-31-generic-x86_64-with-glibc2.39",
+  "processor": "x86_64",
+  "cpu_count": 24,
+  "time": "2026-09-08 22:54:08",
+  "numpy": "2.3.5",
+  "pandas": "3.0.0",
+  "scipy": "1.17.0",
+  "sentence_transformers": "5.2.2",
+  "transformers": "5.0.0",
+  "torch": "2.10.0+cu128",
+  "rank_bm25": "installed",
+  "networkx": "3.6.1",
+  "google.genai": "installed",
+  "leidenalg": "not installed",
+  "igraph": "not installed",
+  "cuda": true,
+  "gpu": "NVIDIA GeForce RTX 3090"
+}

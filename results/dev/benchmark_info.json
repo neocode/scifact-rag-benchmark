@@ -1,0 +1,13 @@
+{
+  "split": "dev",
+  "n_claims": 300,
+  "n_docs": 5183,
+  "excluded_conflicting_label_claims": 0,
+  "label_distribution": {
+    "NOT_ENOUGH_INFO": 112,
+    "SUPPORTS": 124,
+    "REFUTES": 64
+  },
+  "claims_with_evidence": 188,
+  "n_chunks": 45952
+}

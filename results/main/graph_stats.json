@@ -1,0 +1,22 @@
+{
+  "n_docs_extracted": 500,
+  "n_extraction_failures": 4,
+  "n_entities": 6472,
+  "n_relations": 6913,
+  "n_edges": 6391,
+  "n_communities": 1212,
+  "community_method": "louvain (networkx fallback)",
+  "resolution": 1.0,
+  "extraction_llm": {
+    "llm_calls": 500,
+    "prompt_tokens": 272633,
+    "output_tokens": 534938,
+    "thinking_tokens": 0,
+    "llm_ms": 2247982.1,
+    "calls_by_stage": {
+      "graph_extraction": 500
+    },
+    "model_version": "gemini-2.5-flash"
+  },
+  "build_seconds": 2251.9
+}
