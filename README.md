@@ -2,7 +2,7 @@
 
 Reproducible code, benchmark identifiers, prompts and results for the article
 *"Benchmarking next-generation retrieval-augmented generation architectures for scientific claim
-verification on abstract corpora"* (Sheremet O., Sadovoi O., Podlesny S., Sokhina Yu., Sheremet K.).
+verification on abstract corpora"* (Sheremet O. et al.).
 
 The benchmark compares eight pipelines that share one embedding model (`intfloat/e5-base-v2`),
 one sentence-level index, one generation model and one constrained JSON output contract, so that
